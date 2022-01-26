@@ -1,4 +1,4 @@
-public class test{
+public class mainTest{
     public static void main(String args[])
     {
         PhoneBuilder phoneBuilder = new PhoneBuilder("Samsung").setOS("Android").setMemoria("4096");
